@@ -1,0 +1,7 @@
+{
+  "integrationFolder": "./cypress/integration",
+  "testFiles": "**/*.{feature,features}",
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "baseUrl": "https://google.com/"
+}
